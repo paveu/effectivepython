@@ -9,3 +9,5 @@ In this repository you can browse all of the source code included in the book. E
 To run all the code for an item, just type `./item_01.py` into your shell and see what it prints out. Alternatively you can type `python3 item_01.py` or `python2.7 item_03_example_03.py` to run a specific version of Python.
 
 To report a problem with the book or view known issues, please [visit the Errata page](./Errata.md).
+
+lalalala
